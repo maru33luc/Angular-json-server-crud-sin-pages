@@ -1,0 +1,19 @@
+
+a{
+    font-weight: bold;
+}
+
+a:hover{
+    color: #7b0101;
+  
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin: 10px;
+    gap: 20px;
+    margin-right: 40px;
+}
